@@ -1,4 +1,2 @@
-# domenpk.github.io
-
-## Projects
-- [lpc13xx bootloader analysis](lpc13xx_boot_analysis/)
+To view the webpage go to
+https://domenpk.github.io/
